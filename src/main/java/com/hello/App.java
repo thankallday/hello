@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println( "local: abc" );
+        System.out.println( "remote: 4" );
         
     }
 }
